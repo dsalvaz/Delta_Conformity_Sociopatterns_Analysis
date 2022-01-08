@@ -8,6 +8,7 @@ The measure is implemented in DynetX (https://github.com/GiulioRossetti/dynetx) 
 > G. Rossetti, S. Citraro and L. Milli.
 >
 > **∆-Conformity: Multi-scale Node Assortativity in Feature-rich Stream Graphs**
+> 
 > Pre-Print: https://arxiv.org/abs/2111.15534
 
 
