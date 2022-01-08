@@ -1,9 +1,9 @@
 # Delta_Conformity_Sociopatterns_Analysis
 
 
-``∆-Conformity`` is a local homophily measure in attributed stream graphs
+``∆-Conformity`` is a local homophily measure in attributed stream graphs.
 
-The measure is implemented DynetX (https://github.com/GiulioRossetti/dynetx) and introduced in: 
+The measure is implemented in DynetX (https://github.com/GiulioRossetti/dynetx) and introduced in: 
 
 > G. Rossetti, S. Citraro and L. Milli.
 >
